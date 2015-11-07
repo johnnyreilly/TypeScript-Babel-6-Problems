@@ -1,0 +1,21 @@
+{
+    "compileOnSave": false,
+    "filesGlob": [
+        "../typings/**/*.*.ts",
+        "!../typings/jasmine/jasmine.d.ts",
+        "**/*.{ts,tsx}"
+    ],
+    "compilerOptions": {
+        "jsx": "preserve",
+        "target": "es6",
+        "noImplicitAny": false,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "sourceMap": true
+    },
+    "files": [
+        "dependencies.ts",
+        "main.ts"
+    ],
+    "exclude": []
+}
