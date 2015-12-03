@@ -6,7 +6,7 @@ You'll need [node / npm](https://nodejs.org/) installed globally.  To get up and
 
 ```
 npm install
-npm run serve
+npm run watch
 ```
 
 This will:
